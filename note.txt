@@ -1,4 +1,4 @@
-website link =
+website link = https://es6-project.netlify.app/
 
 
 code link = https://github.com/taohidbhuyian/ES6-project.git
